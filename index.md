@@ -8,7 +8,7 @@
 
 <p style="font-size: 12px"><b>Analytical techniques:</b> descriptive statistics, distibution, correlation, new variable derivation, data aggregation, population flow, data visualization in Python.</p>
 <br>
- <img src="images/bar_orders_dow1.png?raw=true"/>  <img src="images/bar_orders_dow1.png?raw=true"/>
+ <img src="instacart.ODW.png?raw=true"/>  
 
 <br><br>
 # <img src="images/.png?raw=true"/>

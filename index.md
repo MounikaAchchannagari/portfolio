@@ -8,7 +8,7 @@
 <p style="font-size: 12px"><b>Analytical techniques:</b> Data Wrangling & Subsetting ,Combining & Exporting Data, Derived New Variables, Grouping Data & Aggregated variables, Data Visualizations in Python. </p>
 <br>
  <img src="images/Instacart.portfolio1.png?raw=true"/>  
-<br><br>
+
 
 
 ---
@@ -19,7 +19,7 @@
 <p style="font-size: 12px"><b>Analytical techniques:</b> Summerized & Cleaned data in SQL, SQL Joins, Used SQL Subqueries and CTE's, Data visualization in Tableau</p>
 <br>
  <img src="images/Rockbusterportfolio.png?raw=true"/>  
-<br><br>
+
 
 
 ---
@@ -30,22 +30,12 @@
 <p style="font-size: 12px"><b>Analytical techniques:</b> Data Profiling & Integrity , Data Transformation & Integration, Statistical Analysis, Hypothesis Testing, Visualizations in Tableau. </p>
 <br>
  <img src="images/influenzaportfolio.png?raw=true"/>  
-<br><br>
 
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
----
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

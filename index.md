@@ -25,9 +25,9 @@
 ---
 [Preparing for Influenza Season in the US 2018](https://github.com/MounikaAchchannagari/Influenza-Season-Analysis)
 
-<p style="font-size: 12px"> Having analyzed several data sets in Python, I identified the busiest days and hours, price ranges and the most popular departments for an online grocery store. I also created customer profiles based on features such as brand loyalty, demographic info, order frequency, family status, regions, and other. On the basis of the analysis results, I gave recommendations to the marketing and sales departments regarding the upcoming marketing campaign to improve customer loyalty and boost sales. </p>
+<p style="font-size: 12px"> The objective of this project was to strategically deploy essential medical personnel prior to the flu season. Conducted comprehensive influenza analysis, ensuring data profiling, integrity, and quality measures in Excel to drive accurate insights. Utilized Excel for data transformation and integrity checks, along with conducting statistical analysis and hypothesis testing to uncover trends and patterns. Based on these results, I gave recommendations to hospitals and medical agencies when and where to send more medical staff. </p>
 
-<p style="font-size: 12px"><b>Analytical techniques:</b> descriptive statistics, distibution, correlation, new variable derivation, data aggregation, population flow, data visualization in Python.</p>
+<p style="font-size: 12px"><b>Analytical techniques:</b> Data Profiling & Integrity , Data Transformation & Integration, Statistical Analysis, Hypothesis Testing, Visualizations in Tableau. </p>
 <br>
  <img src="images/influenzaportfolio.png?raw=true"/>  
 <br><br>

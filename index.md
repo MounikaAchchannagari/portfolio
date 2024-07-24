@@ -7,7 +7,9 @@
 
 <p style="font-size: 12px"><b>Analytical techniques:</b> Data Wrangling & Subsetting ,Combining & Exporting Data, Derived New Variables, Grouping Data & Aggregated variables, Data Visualizations in Python. </p>
 <br>
- <img src="images/Instacart.portfolio1.png?raw=true"/>  
+ <img src="images/instacart-cover-use.jpg?raw=true"/>  
+
+ 
 
 
 
